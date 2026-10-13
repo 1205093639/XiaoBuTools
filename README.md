@@ -7,7 +7,7 @@
 | 软件 | 说明 | 最新版本 | 下载 |
 |---|---|---|---|
 | [BVNTool](BVNTool/) | 死神VS火影（BVN）小布修改器 | v0.3.3 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/bvntool-v0.3.3/BVNModTool-Portable-0.3.3.exe) |
-| [MotoGifRecorder](MotoGifRecorder/) | Snipaste 式选区 GIF 录制工具 | v1.0.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.0.0/MotoGifRecorder.exe) |
+| [MotoGifRecorder](MotoGifRecorder/) | Snipaste 式选区 GIF 录制工具 | v1.0.1 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.0.1/MotoGifRecorder.exe) |
 
 ## 下载方式
 
