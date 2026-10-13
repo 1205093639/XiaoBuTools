@@ -8,6 +8,7 @@ Snipaste 式屏幕选区录制：按 `F7` 框选录制区域 → 自动开始录
 
 | 版本 | 文件 | 更新说明 |
 |---|---|---|
+| v1.1.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.1.0/MotoGifRecorder.exe) | 可调帧率/画质设置；托盘菜单加 B站主页 与 打赏支持（微信/支付宝） |
 | v1.0.1 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.0.1/MotoGifRecorder.exe) | 生成 GIF 时红框显示实时进度（百分比+动画），不再像卡死 |
 | v1.0.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.0.0/MotoGifRecorder.exe) | 首个版本：自带 .NET 运行时 + 内嵌 ffmpeg，单文件免安装，双击即用 |
 
