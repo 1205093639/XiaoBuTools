@@ -8,7 +8,7 @@
 |---|---|---|---|
 | [BVNTool](BVNTool/) | 死神VS火影（BVN）小布修改器 | v0.3.3 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/bvntool-v0.3.3/BVNModTool-Portable-0.3.3.exe) |
 | [MotoGifRecorder](MotoGifRecorder/) | Snipaste 式选区 GIF 录制工具 | v1.1.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.1.0/MotoGifRecorder.exe) |
-| [MovieScraper](MovieScraper/) | 芝杜海报墙刮削器 | v0.1.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/moviescraper-v0.1.0/MovieScraper-Portable-0.1.0.exe) |
+| [MovieScraper](MovieScraper/) | 芝杜海报墙刮削器 | v0.1.1 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/moviescraper-v0.1.1/MovieScraper-Portable-0.1.1.exe) |
 
 ## 下载方式
 

@@ -8,6 +8,7 @@
 
 | 版本 | 文件 | 更新说明 |
 |---|---|---|
+| v0.1.1 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/moviescraper-v0.1.1/MovieScraper-Portable-0.1.1.exe) | 修复分类文件夹识别：支持“电影”“剧集”等分类容器，正确扫描其内部影片/剧集 |
 | v0.1.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/moviescraper-v0.1.0/MovieScraper-Portable-0.1.0.exe) | 首个版本：TMDB 电影/剧集刮削、手动匹配、芝杜 NFO 与海报生成；单文件免安装 |
 
 ## 使用步骤
