@@ -1,24 +1,24 @@
 # XiaoBuTools - 小布小工具集
 
-个人制作的小软件集合，免费下载使用。每个软件一个文件夹，文件夹内按版本号保存历史版本（新版本发布不覆盖旧版本）。
+个人制作的小软件集合，免费下载使用。每个软件一个文件夹放说明文档，安装包统一在 Releases 页面下载，历史版本全部保留在 Releases 列表中。
 
 ## 目录
 
-| 软件 | 说明 | 最新版本 | 大小 |
+| 软件 | 说明 | 最新版本 | 下载 |
 |---|---|---|---|
-| [BVNTool](BVNTool/) | 死神VS火影（BVN）小布修改器 | v0.3.3 | 约 67 MB |
-| [MotoGifRecorder](MotoGifRecorder/) | Snipaste 式选区 GIF 录制工具 | v1.0.0 | 约 102 MB |
+| [BVNTool](BVNTool/) | 死神VS火影（BVN）小布修改器 | v0.3.3 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/bvntool-v0.3.3/BVNModTool-Portable-0.3.3.exe) |
+| [MotoGifRecorder](MotoGifRecorder/) | Snipaste 式选区 GIF 录制工具 | v1.0.0 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/motogifrecorder-v1.0.0/MotoGifRecorder.exe) |
 
 ## 下载方式
 
-1. 进入对应软件的文件夹，点开最新版本号子文件夹（如 `v1.0.0/`）
-2. 点 exe 文件 → 右上角 **Download**（或点 `View raw`）
-3. 下载后双击即可运行，无需安装
+1. 打开 [Releases 页面](https://github.com/1205093639/XiaoBuTools/releases)（仓库右侧栏 Releases，或点上面的链接）
+2. 找到对应软件的最新版本，展开 **Assets**，点击 exe 文件即可下载
+3. 下载后双击即可运行，无需安装；历史版本都在 Releases 列表中按版本号保留
 
 ## 通用说明
 
 - 所有软件均为 **Windows 便携版（绿色单文件）**，不写注册表、不残留垃圾
-- 历史版本保留在对应版本号文件夹中，可按需回退
+- 历史版本全部保留在 [Releases](https://github.com/1205093639/XiaoBuTools/releases) 列表中，仓库文件夹只放说明文档
 - 如浏览器/杀毒软件提示"未知发布者"，属正常现象，添加信任即可
 - 遇到问题请在 [Issues](https://github.com/1205093639/XiaoBuTools/issues) 反馈
 

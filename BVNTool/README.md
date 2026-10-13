@@ -2,16 +2,18 @@
 
 死神VS火影（Bleach vs Naruto）小布修改器：角色、选人界面、场景、关卡、辅助、资源、存档一站式编辑，带备份与还原，便携免安装。
 
+> **下载安装包**：前往 [Releases 页面](https://github.com/1205093639/XiaoBuTools/releases) 选择版本下载。
+
 ## 版本历史
 
 | 版本 | 文件 | 更新说明 |
 |---|---|---|
-| v0.3.3 | [BVNModTool-Portable-0.3.3.exe](v0.3.3/BVNModTool-Portable-0.3.3.exe) | 新增"指定启动器"手动选择游戏程序；自动扫描子目录启动器；修复游戏 exe 改名后找不到文件的问题 |
-| v0.3.2 | [BVNModTool-Portable-0.3.2.exe](v0.3.2/BVNModTool-Portable-0.3.2.exe) | 便携版数据持久化修复 |
+| v0.3.3 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/bvntool-v0.3.3/BVNModTool-Portable-0.3.3.exe) | 新增"指定启动器"手动选择游戏程序；自动扫描子目录启动器；修复游戏 exe 改名后找不到文件的问题 |
+| v0.3.2 | [下载](https://github.com/1205093639/XiaoBuTools/releases/download/bvntool-v0.3.2/BVNModTool-Portable-0.3.2.exe) | 便携版数据持久化修复 |
 
 ## 使用步骤
 
-1. 下载最新版 exe，双击运行
+1. 从 [Releases](https://github.com/1205093639/XiaoBuTools/releases) 下载最新版 exe，双击运行
 2. 首次使用选择游戏根目录（如 `D:\Games\bvn_3.3`）
 3. 顶栏按钮：启动游戏 / 指定启动器 / 刷新数据
 4. 左侧选择功能页签（资源文件编辑器、选人界面等），修改后注意"保存"与"备份"
